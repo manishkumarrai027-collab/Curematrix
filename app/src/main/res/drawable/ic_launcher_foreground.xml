@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer medical shield badge -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,22 C68,22 79,25 80,36 C80,58 68,76 54,84 C40,76 28,58 28,36 C29,25 40,22 54,22 Z" />
+    <!-- Medical Cross Solid White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,27 C48,25.3 49.3,24 51,24 L57,24 C58.7,24 60,25.3 60,27 L60,46 L79,46 C80.7,46 82,47.3 82,49 L82,55 C82,56.7 80.7,58 79,58 L60,58 L60,77 C60,78.7 58.7,80 57,80 L51,80 C49.3,80 48,78.7 48,77 L48,58 L29,58 C27.3,58 26,56.7 26,55 L26,49 C26,47.3 27.3,46 29,46 L48,46 Z" />
+    <!-- Pulse wave overlay in teal/cyan -->
+    <path
+        android:strokeColor="#006978"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,52 L43,52 L47,44 L51,60 L56,41 L61,57 L64,52 L76,52" />
+</vector>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CareHospital</string>
+    <string name="dashboard_title">Hospital Dashboard</string>
+    <string name="patients_title">Patient Records</string>
+    <string name="doctors_title">Medical Specialists</string>
+    <string name="appointments_title">Appointments</string>
+    <string name="wards_title">Wards &amp; Beds</string>
+    <string name="billing_title">Billing &amp; Invoices</string>
+    <string name="register_patient">Register Patient</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="allocate_bed">Allocate Bed</string>
+    <string name="create_bill">Create Bill</string>
+</resources>

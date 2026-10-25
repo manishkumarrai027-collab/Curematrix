@@ -1,0 +1,8 @@
+{
+  "name": "CareHospital",
+  "description": "Hospital management system for managing patients, doctors, appointments, ward beds, prescriptions, and medical billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
